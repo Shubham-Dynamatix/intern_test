@@ -14,6 +14,7 @@ Create a component TaskListComponent to display a list of tasks. Each task shoul
 •	Priority (Low, Medium, High)
 
 ![Alt text](https://github.com/Shubham-Dynamatix/intern_test/blob/main/reference-table.png?raw=true "Sample")
+![Alt text](https://github.com/Shubham-Dynamatix/intern_test/blob/main/reference-form.png?raw=true "Sample")
 
 **2. Task Management:**
 Implement a TaskFormComponent for creating and editing tasks.
