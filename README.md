@@ -13,7 +13,10 @@ Create a component TaskListComponent to display a list of tasks. Each task shoul
 •	Status (e.g., "Pending", "In Progress", "Completed")
 •	Priority (Low, Medium, High)
 
+**List Ui Reference:**
 ![Alt text](https://github.com/Shubham-Dynamatix/intern_test/blob/main/reference-table.png?raw=true "Sample")
+
+**Form Ui Reference:**
 ![Alt text](https://github.com/Shubham-Dynamatix/intern_test/blob/main/reference-form.png?raw=true "Sample")
 
 **2. Task Management:**
