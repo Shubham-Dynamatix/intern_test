@@ -30,6 +30,7 @@ Implement a reusable filter component TaskFilterComponent that interacts with th
 Apply SCSS for styling. The design should be simple yet clean with modern UI elements such as:
 •	Use Primeng or Material UI library to design for buttons, input fields, and cards.
 •	A responsive layout for both mobile and desktop views.
+•	Use reference images for table and form design.
 
 **5. API Integration:**
 Integrate localStorage or json-server to mock a backend API to persist tasks (bonus point for using an API).
