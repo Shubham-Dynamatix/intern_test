@@ -13,6 +13,8 @@ Create a component TaskListComponent to display a list of tasks. Each task shoul
 •	Status (e.g., "Pending", "In Progress", "Completed")
 •	Priority (Low, Medium, High)
 
+![Alt text](https://github.com/Shubham-Dynamatix/intern_test/blob/main/reference-table.png?raw=true "Sample")
+
 **2. Task Management:**
 Implement a TaskFormComponent for creating and editing tasks.
 •	Include input fields for Title, Description, Due date, Status, and Priority.
